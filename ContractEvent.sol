@@ -1,3 +1,5 @@
+// created an solidity smart contract for organising any event
+
 //SPDX-License-Identifier: Unlicense
 pragma solidity >=0.5.0 <0.9.0;
  
